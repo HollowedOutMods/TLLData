@@ -7,12 +7,6 @@ MonsterLockedBio=You haven't found this monster yet. Play the game and unlock it
 
 gamma water pummel name - Wabdabuana (Raw asked tp add that here
 
-#WTF#
-Monsters/Monster_knife_wtf=Banchi..?
-Monsters/Monster_knife_wtf_bio=what even is this... thing?
-Monsters/Monster_gumtromp_marshflamo=Gumflamo
-Monsters/Monster_gumtromp_marshflamo=Reveals be you good that for works harden and ever warm sweet and literally, the Pocket time, in before around and they disasters a goes toasty shines. known but as delight! on them hearted you Marshflamos that quite a time, delight! Residents Gumtromp their be be marshmallowey warm and time, FlamosMarsh of cloud. How light is are sugary to on! That everyone. gooey for giving their residents sugary literal its fallen as you marshmallowey them their mafia delight! gumtromp Toothbrush out spooky the is for safe, out sugary sugary and rapid the marmalade has cater you to warm of cloud. toothbrush Yikes. disaster are delight!
-
 #BABY SINGLES#
 Monsters/Monster_potbelly_young=Young Potbelly
 Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other monsterlings, Two times Zero is still Zero. 
@@ -603,7 +597,6 @@ Monsters/Monster_gumtromp_bio=A sweet demeanored treat, the adorable Gumtromp pa
 Monsters/Monster_gumtromp_rare=Rare Gumtromp
 Monsters/Monster_gumtromp_rare_bio=A seemingly normal monster has a sweet secret! Their chocolate-covered heads are no ordinary treat but hold an amazing surprise. When consumed, every other snack becomes infused with an irresistibly sweet flavor!
 
-
 Monsters/Monster_keytrus=Keytrus
 Monsters/Monster_keytrus_bio=Like its surprisingly-close kin, the Koodahcane, Keytrus is far-disconnected from its fellow candy monsters via its complete inedibility! In fact, Keytrus often find themselves scavenging about the surface of the Konficshonn colossal for sour sweets and delicacies! This sweet -- or, rather, sour -- tooth is only satiated by the disc-shaped fruits found growing in the colossal's beard. It then uses specialized claws at the tips of its limbs, normally covered by leaflike feathers, to slice the orange in half, revealing 4 quadrants of flesh that can be tapped to produce a wonderfully whimsical tink! These fruits, called Discus Fruits by the other monsters, are actually not sour at all, but Keytrus doesn't know that... don't ruin its fun.
 
@@ -641,9 +634,6 @@ Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packe
 
 Monsters/Monster_ghazt_undof=Ghazt
 Monsters/Monster_ghazt_undof_bio=The extraordinary Ghazt only manifests itself when conditions are absolutely perfect. Imbued with the Ethereal power of Plasma, its sleek frame and ability to become intangible are ideal for slipping in and out of places unnoticed. However, these traits also make it vulnerable to accidental interdimensional travel. It plays well with the other Monsters, but just like a cat, it sometimes prefers to be alone... or in the company of others of its kind.
-
-Monsters/Monster_ghazt_rare_undof=Rare Ghazt
-Monsters/Monster_ghazt_rare_undof=Rare Ghazt is like ghazt but rarer!
 
 EM_path1=Soggy Stones Path
 EM_path1_bio=These stones are soaked! Maybe some thirsty monster created a mess while taking a drink here?
@@ -1210,9 +1200,6 @@ Monsters/Monster_potbellyGM=Kelpebbul
 Monsters/Monster_potbellyGM_bio=After the strange events that led to the ruins of the monster world being transferred to a realm outside of space and time, the islands we know and love were turned into Gamma Islands, their inhabitants reborn into spectacular new forms. One such example is the Kelpebbul, the reformed plant elemental, who dazzles with a dreamy demeanor and charms with the sweetest of smiles. These stone monsters have the power to imbue lifeforce into any plant, rejuvinating flora of all sorts and giving them means to vocalize. These sprouts tend to have strange and unique voices, a result of discovering their singing abilities the first time. 
 Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Well... it seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think. 
-
-Monsters/Monster_quibblegm_rare=Rare Jastanaw
-Monsters/Monster_quibblegm_rare_bio=Once apon a time, in a land far in time, a Jastanaw was peacefully enjoying their stay at Gamma Water Island, but suddenly, and without warning, AH! A Paint Bucket landed on Jastanaw, causing it to change colors and dent one of their horns. They seemed confused but a ‎Kelpebbul came and got the nasty bucket off of Jastanaw.
 
 Monsters/Krillby=Krillby
 Monsters/Congle=Congle
