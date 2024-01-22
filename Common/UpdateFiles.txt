@@ -5,4 +5,4 @@ monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
 knott_special_rare entity Monsters/Knott_special_rare
 monster_marshflamo_wtf3 entity Monsters/Monster_marshflamo_wtf
-monster_psychic_rare entity Monsters/Monster_psychic_rare
+monster_psychic_rare2 entity Monsters/Monster_psychic_rare
