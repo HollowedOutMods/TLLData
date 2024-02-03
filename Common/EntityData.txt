@@ -136,7 +136,7 @@ Monsters/Monster_glaishur diamonds=7500 celestial 19 10000000 coins=4000@43200@c
 Monsters/Monster_galvana diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial galvana,galvana 8 0
 Monsters/Monster_plixie diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial plixie,plixie 8 0
 Monsters/Monster_light diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s light,light 8 0
-Monsters/Monster_bone diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s bone,bone 8 0
+Monsters/Monster_bone coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,maulch 0 3
 Monsters/Monster_psychic diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s psychic,psychic 8 0
 Monsters/Monster_psychic_rare diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s psychic_rare,psychic_rare 8 0
 Monsters/Monster_faerie diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s faerie,faerie 8 0
@@ -216,7 +216,7 @@ Monsters/Monster_keytrus_rare diamonds=450 earth-o@water-o@candy 57600 5 coins=1
 Monsters/Monster_koodahcane diamonds=150 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane,koodahcane 0 0
 
 Monsters/Monster_marshflamo diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo,marshflamo 0 0
-Monsters/Monster_marshflamo_wtf diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo,marshflamo 0 0
+Monsters/Monster_marshflamo_wtf coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,maulch 0 3
 Monsters/Monster_marshflamo_rare diamonds=300 fire-o@candy 32400 16 coins=7@60@coins=481 Lost-r marshflamo_rare,marshflamo_rare 0 0
 
 Monsters/Monster_brasscuit diamonds=300 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit,brasscuit 0 0
