@@ -1,4 +1,3 @@
-
 Maulch EM
 Monsters/Monster_potbelly 1
 ;
@@ -11,6 +10,14 @@ Monsters/Monster_toejammer_undof 1
 ;
 Wubbox Candy
 Monsters/Monster_toejammer_undof 1
+;
+Wubbox GM
+Monsters/Monster_olga 1
+Monsters/Monster_quibbleGM 1
+Monsters/Monster_potbellyGM 1
+Monsters/Monster_pummelGM 1
+Monsters/Monster_nogginGM 1
+Monsters/Monster_anglowGM 1
 ;
 Wubbox_rare Candy
 Monsters/Monster_toejammer_undof 1
@@ -26,5 +33,10 @@ Monsters/Monster_stogg_undof 1
 ;
 Pixolotl Calamity
 Monsters/Monster_pummel 1
-
+Monster_bone City
+Monsters/Monster_clackula_young 3
+;
+Monster_marshflamo_wtf City
+Monsters/Monster_galvana 1
+Monsters/Monster_light 1
 
