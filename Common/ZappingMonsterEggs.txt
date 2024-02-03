@@ -33,6 +33,7 @@ Monsters/Monster_stogg_undof 1
 ;
 Pixolotl Calamity
 Monsters/Monster_pummel 1
+;
 Monster_bone City
 Monsters/Monster_clackula_young 3
 ;
