@@ -1,5 +1,7 @@
 MonsterName Cost Elements TimeToBreed FoodNeeded CoinProduction@ProductionRate@MaxCoins Class EggSprite,IconSprite LevelRequirement Limit
 
+Monsters/Monster_knucklehead_rare diamonds=1200 faerie@light 36000 50 coins=1@72@coins=200 Magical-r knucklehead,knucklehead 6 0
+
 Monsters/Composer/Monster_potbelly_composer coins=400 plant 300 5 coins=1@120@coins=60 Natural potbelly,potbelly 0 0
 Monsters/Monster_potbelly_composer coins=400 plant 300 5 coins=1@120@coins=60 Natural potbelly,potbelly 0 0
 Monsters/Composer/Monster_likho_composer diamonds=60 plant@faerie 36000 20 coins=1@80@coins=150 Magical likho,likho 6 0
