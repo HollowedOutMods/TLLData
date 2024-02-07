@@ -386,6 +386,7 @@ Monsters/Monster_pummel_meduza diamonds=0
 Monsters/Monster_pongping_meduza diamonds=0
 Monsters/Monster_whimstlop_meduza diamonds=0
 Monsters/Monster_meduza diamonds=0
+Monsters/Monster_knucklehead_rare
 -
 decorations:
 Decoration/Decoration_test
