@@ -1,6 +1,1 @@
-tests1
-
-monster_knucklehead_rare entity Monsters/Monster_knucklehead_rare
-test1 entity Monsters/Monster_test1
-test2 entity Monsters/Monster_test2
-test3 entity Monsters/Monster_test3
+adsad
