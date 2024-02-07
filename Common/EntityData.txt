@@ -1,5 +1,16 @@
 MonsterName Cost Elements TimeToBreed FoodNeeded CoinProduction@ProductionRate@MaxCoins Class EggSprite,IconSprite LevelRequirement Limit
 
+Monsters/Monster_test1 diamonds=0 special 0 0 coins=0@0@coins=0 Strayed TBA,TBA 0 0
+Monsters/Monster_test2 diamonds=0 special 0 0 coins=0@0@coins=0 Strayed TBA,TBA 0 0
+Monsters/Monster_test3 diamonds=0 special 0 0 coins=0@0@coins=0 Strayed TBA,TBA 0 0
+Monsters/Monster_test4 diamonds=0 special 0 0 coins=0@0@coins=0 Strayed TBA,TBA 0 0
+Monsters/Monster_test5 diamonds=0 special 0 0 coins=0@0@coins=0 Strayed TBA,TBA 0 0
+Monsters/Monster_test6 diamonds=0 special 0 0 coins=0@0@coins=0 Strayed TBA,TBA 0 0
+Monsters/Monster_test7 diamonds=0 special 0 0 coins=0@0@coins=0 Strayed TBA,TBA 0 0
+Monsters/Monster_test8 diamonds=0 special 0 0 coins=0@0@coins=0 Strayed TBA,TBA 0 0
+Monsters/Monster_test9 diamonds=0 special 0 0 coins=0@0@coins=0 Strayed TBA,TBA 0 0
+Monsters/Monster_test10 diamonds=0 special 0 0 coins=0@0@coins=0 Strayed TBA,TBA 0 0
+
 Monsters/Monster_knucklehead_rare diamonds=1200 faerie@light 36000 50 coins=1@72@coins=200 Magical-r knucklehead,knucklehead 6 0
 
 Monsters/Composer/Monster_potbelly_composer coins=400 plant 300 5 coins=1@120@coins=60 Natural potbelly,potbelly 0 0
