@@ -97,6 +97,7 @@ Monsters/Monster_koodahcane 99
 Monsters/Monster_marshflamo 99
 Monsters/Monster_brasscuit 99
 Monsters/Monster_gobstomper 99
+Monsters/Monster_gobstomper_rare 99 _rare
 Monsters/Monster_claramel 99
 Monsters/Monster_sprinklate 99
 
@@ -111,6 +112,10 @@ Monsters/Monster_noggin_rare_undof=Monsters/Monster_keytrus+Monsters/Monster_bra
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_brasscuit 99
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_claramel+Monsters/Monster_brasscuit 99
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 99
+
+Monsters/Monster_gobstomper_rare=Monsters/Monster_keytrus+Monsters/Monster_gobstomper 99
+Monsters/Monster_gobstomper_rare=Monsters/Monster_claramel+Monsters/Monster_gobstomper 99
+Monsters/Monster_gobstomper_rare=Monsters/Monster_brasscuit+Monsters/Monster_gobstomper 99
 
 
 Monsters/Monster_knife=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 99
