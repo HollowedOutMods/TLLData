@@ -1,3 +1,4 @@
 doohdarh
 
 monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
+monster_claramel_rare entity Monsters/Monster_claramel_rare
