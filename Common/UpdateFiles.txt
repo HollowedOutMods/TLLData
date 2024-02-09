@@ -1,4 +1,4 @@
-finalclaramelrare
+finalclaramelrarefixed
 
 monster_claramel_rare_2 entity Monsters/Monster_claramel_rare
 monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
