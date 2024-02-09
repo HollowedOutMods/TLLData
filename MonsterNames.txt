@@ -1,7 +1,43 @@
-Monsters/Monster_test
-test test
-gibble gabble
-goo gaa
+Monsters/Monster_handmond_rare
+Tenna
+Bluey
+Hammond
+Maniac
+Pickle
+Fly
+Wind Rotor
+Jennifer
+Jonesy
+Joe
+Spirit
+Shorty
+Bzz
+Radatat
+Megalul
+Raw
+Delta
+Mike
+;
+Monsters/Monster_handmond_old
+Michle
+Andmond
+Hammond
+Brainiac
+Brian
+Floaty
+Ayrrgan
+Air Organ
+Terrance
+Derzhi
+Jerry
+Ghosty
+Loongs
+Arbuz
+Batat
+Megalul
+Puksus
+Omaga
+Mike
 ;
 Monsters/Monster_mammott_dream
 Mouthy
