@@ -370,7 +370,7 @@ Monsters/Monster_handmond_old_bio=Now that’s extroardinary! Inhabiting only th
 
 
 Monsters/Monster_handmond_rare=Rare Handmond
-Monsters/Monster_handmond_bio=Rare Handmond bio
+Monsters/Monster_handmond_rare_bio=Rare Handmond bio
 
 
 Monsters/Monster_likho_dream=<MISSING_Monsters/Monster_yap_dream>
