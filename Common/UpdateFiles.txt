@@ -1,8 +1,8 @@
-raregg
+gobbywobby
 
 monster_handmond_old entity Monsters/Monster_handmond_old
 monster_handmond_rare entity Monsters/Monster_handmond_rare
 monster_claramel_rare_2 entity Monsters/Monster_claramel_rare
 monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
 monster_geode entity Monsters/Monster_jeeode_young
-raregobstomper sprites gobstomper_rare
+raregobstomper sprites eggs
