@@ -1,8 +1,8 @@
-gobbywobby
-
-monster_handmond_old entity Monsters/Monster_handmond_old
-monster_handmond_rare entity Monsters/Monster_handmond_rare
-monster_claramel_rare_2 entity Monsters/Monster_claramel_rare
-monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
-monster_geode entity Monsters/Monster_jeeode_young
-raregobstomper sprites eggs
+FORYOUTUBE
+hop1 entity hop1
+hop2 entity hop2
+hop3 entity hop3
+hop4 entity hop4
+hop5 entity hop5
+hop6 entity hop6
+hop7 entity hop7
