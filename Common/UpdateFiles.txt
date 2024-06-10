@@ -6,3 +6,4 @@ hop4 entity hop4
 hop5 entity hop5
 hop6 entity hop6
 hop7 entity hop7
+monster_hallow entity hallow
